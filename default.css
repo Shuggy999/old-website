@@ -35,16 +35,19 @@ body {
   /* Style the left column */
   .left {
     grid-area: left;
+
   }
   
   /* Style the middle column */
   .middle {
     grid-area: middle;
+
   }
   
   /* Style the right column */
   .right {
     grid-area: right;
+
   }
   
   /* Style the footer */
