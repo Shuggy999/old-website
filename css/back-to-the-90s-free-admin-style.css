@@ -1,0 +1,67 @@
+/**
+ * Back to The 90s Theme Admin Styles
+ */
+
+.back-to-the-90s-free-settings {
+	margin-top: 2em;
+}
+
+.back-to-the-90s-free-settings h1 span.dashicons {
+	vertical-align: middle;
+}
+
+.back-to-the-90s-free-settings input[type="text"] {
+	width: 360px;
+}
+
+.back-to-the-90s-free-settings .form-table.disabled th {
+	color: #999;
+}
+
+.back-to-the-90s-free-alert {
+	display: inline-block;
+	padding: 0.5em 1em 0.5em 0.5em;	
+	border: 1px solid #900;
+	border-radius: 5px;
+	background: #fee;	
+}
+
+.wp-customizer .back-to-the-90s-free-alert {
+	margin: 1em;
+	padding: 1em;
+	z-index: 777;
+	width: 85%;
+}
+
+.wp-customizer .back-to-the-90s-free-alert italic {
+	font-style: italic;
+}
+
+.wp-customizer .back-to-the-90s-free-alert strong .theme-link {
+	font-style: normal;
+}
+
+.wp-customizer .back-to-the-90s-free-alert .dashicons {
+	float: left;
+	margin: 0 0 0 -8px;
+	font-size: 70px;
+}
+
+.wp-customizer .back-to-the-90s-free-alert .dashicons.premium-check {
+	color: #3c3;
+	margin-right: 0.3em;
+	font-size: 230%;
+}
+
+.wp-customizer .back-to-the-90s-free-alert a.theme-link {
+	font-size: 120%;
+}
+
+.wp-customizer .back-to-the-90s-free-alert p {
+	padding: 0 0 0 65px;
+	margin: 0;
+}
+
+.back-to-the-90s-free-alert .dashicons {
+	color: #900;
+}
