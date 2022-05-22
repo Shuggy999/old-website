@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Rhapsody 1 - hugoedgar</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="default.css">
+</head>
+<body>
+
+<div class="header">
+  <h2>hugoedgar.com</h2>
+</div>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    Navigation <hr>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="gaming.html">Gaming</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul></div>
+
+  <div class="column middle" style="background-color:#bbb;">
+    <h4><b>Rhapsody</b></h4> <hr>
+
+    An ever evolving song, Rhapsody 1 is something I was working on during the lockdown.
+    I decided to turn my piece of music into an NFT. 
+   
+    <br>
+    Find it on <i>opensea.io</i> <br>
+
+<button onclick="location.href='www.twitch.tv/shuggy999'">
+  Twitch
+</button>
+
+  </iframe>
+    <br>
+</div>
+
+  <div class="column right" style="background-color:#ccc;">
+    Cool Stuff <hr>
+
+    <img src="http://thecatapi.com/api/images/get?format=src&type=png" alt="(pretend there is a cat here lol)"
+    style="width:50px;height:50px;">
+    <img src="http://thedogapi.com/api/images/get?format=src&type=png" alt="(pretend there is a dog here lol)" 
+    style="width:50px;height:50px;">
+    <img src="/assets/images/memes/meme_thanks_for_null.jpg" alt="To the programmer who invented null: Thanks for nothing." 
+    style="width:100px;height:50px;"> <br>
+    <img src="/assets/images/memes/meme_silly_computer.jpg" alt="The 8 year old is learning Python, and after a dealing with a syntax
+    bug she asks: &quot;If the computer
+    knows I'm missing a semicolon
+    here, why won't it add it itself? &quot;
+    &quot;I don't know. I really don't know.." 
+    style="width:100px;height:50px;"> <br>
+    <iframe width="250" height="187.5" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" >
+    </iframe>
+    </div>
+
+</div>
+
+<div class="footer">
+  <img src="http://thecatapi.com/api/images/get?format=src&type=png" 
+  style="width: 50px;height:50px;">
+
+  Handmade by Hugo <i>(Shuggy)</i> Edgar.
+
+  <img src="http://thedogapi.com/api/images/get?format=src&type=png" 
+  style="width: 50px;height:50px;">
+
+  <p></p>
+  </div>
+</div>
+
+</body>
+</html>
